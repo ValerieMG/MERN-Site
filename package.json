@@ -1,0 +1,24 @@
+{
+  "name": "mern-site",
+  "version": "1.0.0",
+  "description": "MERN stack practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValerieMG/MERN-Site.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "express"
+  ],
+  "author": "ValerieMG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValerieMG/MERN-Site/issues"
+  },
+  "homepage": "https://github.com/ValerieMG/MERN-Site#readme"
+}
